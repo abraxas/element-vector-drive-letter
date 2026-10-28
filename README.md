@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/element-vector-drive-letter">element-vector-drive-letter</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/element-vector-drive-letter"><strong>https://abraxaslabs.tech/research/element-vector-drive-letter</strong></a>
+</p>
+
 
 # element-vector-drive-letter
 
